@@ -89,6 +89,8 @@ option.right{
     grid-template-columns: repeat(2, 1fr);
 }
 .score{
+    font-size: 24px;
+    font-weight: bold;
     text-align: center;
 }
 .message{
